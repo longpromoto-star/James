@@ -1,0 +1,22 @@
+
+{
+  "name": "VinaWallet - Quản lý tài chính",
+  "short_name": "VinaWallet",
+  "description": "Ứng dụng quản lý thu chi và ngân sách cá nhân chuyên nghiệp.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#102216",
+  "theme_color": "#13ec5b",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/10149/10149458.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/10149/10149458.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

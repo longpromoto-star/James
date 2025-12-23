@@ -1,0 +1,7 @@
+{
+  "name": "VinaWallet - Personal Finance Tracker",
+  "description": "A sleek, dark-themed personal finance management application with AI-powered spending insights and detailed profile management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
